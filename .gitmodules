@@ -1,0 +1,3 @@
+[submodule "CapstoneProj/SketchHealer"]
+	path = CapstoneProj/SketchHealer
+	url = https://github.com/JiWon0502/SketchHealer.git
