@@ -1,0 +1,5 @@
+rdp
+Pillow
+matplotlib
+numpy
+tk
